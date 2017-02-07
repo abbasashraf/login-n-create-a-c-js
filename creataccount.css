@@ -1,0 +1,87 @@
+body{
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.upside{
+    width: 100%;
+    height: 100px;
+    background-color: lightgray;
+}
+.logoimg{
+    margin-left: 100px;
+    margin-top: 4px;
+}
+.signinbtn{
+    width: 120px;
+    height: 30px;
+    float: right;
+    margin: 34px 30px 0 0 ;
+    background-color: #4286f4;
+    color: white;
+    border-radius: 6px;
+}
+h1{
+    font-size: 45px;
+    text-align: center;
+    margin: 20px 0 5px 0 ;
+}
+.hh2{
+    margin-top: 100px;
+    font-size: 36px;
+}
+.leftbox{
+    width: 50%;
+    height: 700px;
+    border: 0px solid black;
+    display:inline-block;
+    margin-top: 30px;
+    margin-left: 20px;
+    text-align: center;
+}
+.rightbox{
+    width: 34%;
+    height: 700px;
+    border: 0px solid black;
+    display: inline-block;
+    margin-top:30px;
+    margin-left: 50px;
+    background-color: lightgray;
+    position: absolute;
+}
+.fldst{
+    position: relative;
+    margin-left: 40px;
+    border: 0px;
+}
+
+
+form{
+    
+    
+    
+}
+input{
+  margin-bottom: 10px;
+  height: 30px;
+  width: 410px;
+}
+.p{
+    margin-bottom: 1px;
+    font-weight: bold;
+    font-size: 20px;
+}
+.sbmtbtn{
+    width:80px; 
+    height:30px; 
+    margin-left:334px;
+    background-color: #4286f4;
+    color: white;
+    border-radius: 6px;
+}
+#p1,#p2,#p3,#p4,#p5,#p6,#p7{
+    margin-top: 0px;
+    margin-bottom: 0px;
+    line-height: 0em;
+    color: red;
+}
